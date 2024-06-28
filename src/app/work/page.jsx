@@ -56,8 +56,8 @@ const projects = [
     desription:
       " Udemy clone involves replicating the core functionalities of the popular online learning platform, Udemy.The Udemy clone platform aims to provide a comprehensive online learning experience, offering a wide range of courses taught by instructors from around the world. Users can enroll in courses, learn at their own pace, and gain new skills across various domains.",
     stack: [
-      { name: "Html" },
-      { name: "Css" },
+      { name: "Html 5" },
+      { name: "Css 3" },
       { name: "Reactjs" },
       { name: "Nodejs" },
       { name: "ExpressJs" },
