@@ -29,7 +29,7 @@ const projects = [
       { name: "Nextjs" },
     ],
     image: "/assest/work/Parking-Arms.png",
-    live: "https://devapp.parkingarms.com",
+    live: "",
     github: "",
   },
   {
@@ -46,7 +46,7 @@ const projects = [
       { name: "Reactjs" },
     ],
     image: "/assest/work/LinkStaff.png",
-    live: "https://dev.linkhealthstaff.com",
+    live: "",
     github: "",
   },
   {
