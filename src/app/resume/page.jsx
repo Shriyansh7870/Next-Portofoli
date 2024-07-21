@@ -49,7 +49,7 @@ const eperience = {
   icon: "",
   tittle: "My experience",
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in.",
+    "With one year of experience in React, Next.js, and TypeScript, I have developed a strong foundation in building dynamic web applications. I have successfully integrated state management, server-side rendering, and type safety in my projects. My expertise includes developing reusable components, handling API integrations, and optimizing performance. This background has equipped me to tackle complex frontend challenges efficiently.",
   items: [
     {
       company: "Aict Pvt LTD",
@@ -99,7 +99,7 @@ const education = {
 const skills = {
   tittle: "My skills",
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in.",
+    "With skills in HTML, CSS, JavaScript, React, Next.js, and TypeScript, I excel in creating dynamic and responsive web applications. My experience extends to backend development with Node.js and Express, enabling me to build full-stack solutions. I am adept at integrating APIs, ensuring smooth data flow between front-end and back-end. This comprehensive skill set allows me to tackle diverse development challenges effectively.",
   skilllist: [
     {
       icon: <FaHtml5 />,
